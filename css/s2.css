@@ -1,0 +1,19 @@
+body{
+    background-color: darkgray;
+    color: black;
+    text-decoration-line: underline;
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer {
+    text-align:center;
+    background-color: azure;
+}
+p{
+    text-align: right;
+}
+h2,h3,h4{
+    color: darkslategray;
+    text-decoration-line: underline;
+}
