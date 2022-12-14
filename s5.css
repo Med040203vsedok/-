@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(244, 238, 238);
+    color: rgb(164, 163, 163);
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header,
+footer {
+    text-align:center;
+
+}
+
+p{
+    text-align: justify;
+    text-indent: 8ch;
+}
+
+h3{
+    color: rgb(15, 16, 16);
+    text-decoration-line: underline;
+    
+}
+h1{
+    color: rgb(8, 8, 8);
+    text-decoration-line: underline;
+    font-size: 80px;
+}
+.container {
+ position: relative;
+ text-align: center;
+ color: magenta;
+}
+.bottom-right{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+h4{
+    color: darkslategray;
+    text-decoration-line: underline;
+}
